@@ -15,7 +15,7 @@ The core of the project revolves around the YOLOv7 model, a state-of-the-art dee
 # Authors and Co-Authors:
 <img width="349" alt="Screenshot 2024-04-09 at 6 27 12 PM" src="https://github.com/Srsp-coder/Fall-Detection-using-python/assets/166516543/f3078a53-d242-4147-b74f-29be20ce5888">
 
-
+#
 
 # Results and Discussion:
 The Fall Detection system demonstrates remarkable performance in accurately detecting falls in real-time. By leveraging the YOLOv7 model's speed and accuracy, the system can be deployed in various settings, including hospitals, nursing homes, and public spaces, to enhance safety measures. The project highlights the potential of AI-driven solutions in addressing critical safety concerns.
