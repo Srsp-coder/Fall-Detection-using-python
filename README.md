@@ -13,7 +13,8 @@ The Fall Detection project utilizes the YOLOv7 object detection model to identif
 The core of the project revolves around the YOLOv7 model, a state-of-the-art deep learning model for object detection. The model is trained on a custom dataset containing annotated fall images. During inference, the model processes video frames, detecting falls with high accuracy. The project utilizes the OpenCV library for video processing and visualization, ensuring seamless integration with the YOLOv7 model.
 
 # Authors and Co-Authors:
-![image](https://github.com/Srsp-coder/Fall-Detection-using-python/assets/166716743/0d17b190-ce47-442f-b09d-8dc2cddded62)
+<img width="349" alt="Screenshot 2024-04-09 at 6 27 12 PM" src="https://github.com/Srsp-coder/Fall-Detection-using-python/assets/166516543/f3078a53-d242-4147-b74f-29be20ce5888">
+
 
 
 # Results and Discussion:
