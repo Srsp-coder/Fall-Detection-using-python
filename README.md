@@ -4,7 +4,7 @@
 This project focuses on developing an AI-based Fall Detection system using the YOLOv5 object detection model. The system aims to detect falls in real-time from video streams or recorded videos, leveraging deep learning techniques for accurate detection. By utilizing the YOLOv5 model and a custom dataset, the project demonstrates the effectiveness of AI in enhancing safety and security in various environments.
 
 # Keywords:
-Fall Detection, YOLOv5, Object Detection, Deep Learning.
+Fall Detection, cv2, Object Detection, Deep Learning,Yolov7,torch,torchvision,numpy.
 
 # Introduction:
 The Fall Detection project utilizes the YOLOv5 object detection model to identify and classify falls in video footage. Falls are a critical issue, especially among the elderly and in hazardous environments. This system offers a proactive approach to detecting falls, enabling timely responses and potentially saving lives. The project employs a dataset of fall and non-fall examples, ensuring the model's ability to generalize to various fall scenarios.
