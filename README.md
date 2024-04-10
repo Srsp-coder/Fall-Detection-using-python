@@ -32,5 +32,8 @@ The Fall Detection system demonstrates remarkable performance in accurately dete
 
 <img width="300" alt="Screenshot 2024-04-10 at 9 33 38 AM" src="https://github.com/Srsp-coder/Fall-Detection-using-python/assets/166516543/6d09c2b0-a6dd-42b1-8f89-afb786e70a78">
 
+# Confusion Matrix:
+![confusion_matrix_normalized](https://github.com/Srsp-coder/Fall-Detection-using-python/assets/166516543/3a94b409-d6b6-436f-ae59-468859a911e3)
+
 # Conclusion:
 In conclusion, the Fall Detection project showcases the efficacy of the YOLOv7 model in detecting falls with high accuracy. The system's real-time capabilities and robust performance make it a valuable tool for enhancing safety and security in diverse environments. Moving forward, the project paves the way for further advancements in AI-powered fall detection systems, contributing to the improvement of healthcare and safety standards.
